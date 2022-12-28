@@ -1,0 +1,5 @@
+This is a small script that takes a barcode as user input and searches an excel file for the SKU for the product. Using the SKU load the product image, display the name of the product and show available sizes.
+
+This assists packing by allowing the packer to scan the product barcode and visually confirm the item is correct. This also speeds up Exchanges and returns by displaying siblong products of differing sizes.
+
+To Do: Implement a way to match mulitple colour ways
