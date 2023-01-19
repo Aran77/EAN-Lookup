@@ -1,4 +1,4 @@
-### EAN Look-Up
+# EAN Look-Up
 
 ## The Problem
 Staff in the company I work for needed a way to scan a barcode and load up a photo of the product. This assists packing by allowing the packer to scan the product barcode and visually confirm the item is correct. This also speeds up Exchanges and returns by displaying siblong products of differing sizes.
